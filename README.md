@@ -8,13 +8,7 @@ DAG 图形解决方案是一种解决不同业务场景的 DAG 图形渲染和�
 - 大数据能力：通过聚合节点，按需加载等方案解决大数据渲染压力，更好的用户体验，目前支持 1w+节点渲染。
 - 交互编排能力：可视化拖拽交互编排的能力。
 
-<!-- ![Watch the video](./public/dag.mp4) -->
-
 ![png](./public/dag.gif)
-
-<!-- <video width="320" height="240" controls>
-  <source src="./public/dag.mp4" type="video/mp4">
-</video> -->
 
 ### 接入方式
 
